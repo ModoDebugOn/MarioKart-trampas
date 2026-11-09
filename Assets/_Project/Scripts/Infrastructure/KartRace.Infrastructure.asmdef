@@ -1,0 +1,19 @@
+{
+    "name": "KartRace.Infrastructure",
+    "rootNamespace": "KartRace.Infrastructure",
+    "references": [
+        "KartRace.Domain",
+        "KartRace.Application",
+        "KartRace.Presentation",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

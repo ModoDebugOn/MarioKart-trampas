@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d358ffe296efa641899fa2b0493761f, type: 3}
+  m_Name: ItemIcons
+  m_EditorClassIdentifier: KartRace.Presentation::KartRace.Presentation.ItemIcons
+  sprites:
+  - {fileID: 7381965769198725172, guid: fcede6f0ed9a944499a308971aee2f75, type: 3}
+  - {fileID: -2272970040903383302, guid: 2722925a602daa84c9e7ed57e3f6e92a, type: 3}
+  - {fileID: 1132859613809874907, guid: 2d56f170c45c1cc42b5697269fec1f14, type: 3}
+  - {fileID: 1380984913247289021, guid: e02caf1cbbf01f54494e0c7fe3e77064, type: 3}
+  - {fileID: 8298111495817458581, guid: 0eaa2c4c390de774fae6d5e971eab5f0, type: 3}
+  - {fileID: -3858036366711644688, guid: 77b19d81803da52459e76330af35c1d3, type: 3}
+  - {fileID: 94796774108882217, guid: 23ee90d6d1e3c544599cf794d209878a, type: 3}
+  - {fileID: 3415459749757061394, guid: 0f487218bcb0cd049a5dfd7a84ff8d7a, type: 3}
+  - {fileID: -8676032735143431374, guid: bf692f38749eab64dbbc266d93060719, type: 3}
+  - {fileID: -1809264207729250655, guid: 51ce33ab60c6aa4408b65ee6a9dbf9c1, type: 3}
+  - {fileID: 5199979006384268662, guid: 083d6b45ebf341a4aaa3decdf3a98dd5, type: 3}
+  - {fileID: 2208703988740019828, guid: cd01a71ae9ead494e94b594f65e4abde, type: 3}
+  - {fileID: -894095381526335850, guid: eddcdce97d3959440967e6f113e99627, type: 3}
+  - {fileID: -1483665779731714255, guid: 607342bde9781d14b8e276faf5c01c8c, type: 3}
+  - {fileID: -2817813186423584760, guid: 7f69b21e673d92842bd301d29322c113, type: 3}
+  - {fileID: -3338749442709606003, guid: 87fc261ea2832b648ae7e20d28299cbf, type: 3}
+  - {fileID: 8080504193523864044, guid: bb39c4ce3468e744ebd67b0e6fb139e3, type: 3}

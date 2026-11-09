@@ -1,0 +1,20 @@
+{
+    "name": "KartRace.Editor",
+    "rootNamespace": "KartRace.Editor",
+    "references": [
+        "KartRace.Domain",
+        "KartRace.Presentation",
+        "KartRace.Infrastructure"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
